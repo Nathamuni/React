@@ -2,8 +2,8 @@
 //The correct way of learning React
 //These dependencies are like downloading package.json installed through npm
 
-import React from "react"
-import ReactDOM from "react-dom/client"
+import React from "./reactfile/react"
+import ReactDOM from "./reactfile/react-dom/client"
 
 //here on react the jsx  syntax is defined
 const navbar = (
